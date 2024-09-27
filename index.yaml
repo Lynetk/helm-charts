@@ -1,0 +1,14 @@
+apiVersion: v1
+entries:
+  std-deployment:
+  - apiVersion: v2
+    appVersion: 1.16.0
+    created: "2024-09-27T09:21:56.483859449Z"
+    description: A Helm chart for Kubernetes
+    digest: c108b24195021a712de5f3ccb7a608af8cf92b44e16eb94e922ec3dafb25af88
+    name: std-deployment
+    type: application
+    urls:
+    - https://github.com/Lynetk/helm-charts/releases/download/std-deployment-0.1.0/std-deployment-0.1.0.tgz
+    version: 0.1.0
+generated: "2024-09-27T09:21:56.483867925Z"
